@@ -1,2 +1,2 @@
-# Minka-27.github.io
-GitHub site hosting my project portfolio
+# SnapSyntax
+"See it, Speak it! SnapSyntax: Translate the World with a Snap!"
